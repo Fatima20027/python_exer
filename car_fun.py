@@ -7,6 +7,7 @@ def My_car():
         print("car has stopped moving")
      
     elif car == "help" :
+        print("Type:", end = "\n\n")
         print("-start: moving the car", end = "\n\n")
         print("-stop: stopping the car", end = "\n\n")
         print("-quit: quitting the car", end = "\n\n")
