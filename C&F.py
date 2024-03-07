@@ -36,9 +36,7 @@ while True:
         elif choice == "exit":
              break  
         else:
-            print("Not valid input, please try again.")
-            #greeting = input("type <continue> or <exit>: ")
-           
+            print("Not valid input, please try again.")          
 
 if "exit" in greeting:
      exit()
